@@ -69,6 +69,8 @@ Support
 --------
 If you find a bug, please report it.
 
+And this is a new line of code. 
+
 If you need assistance with installing, configuring, or using lainchan, you may
 find support from a variety of sources:
 
