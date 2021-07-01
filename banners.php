@@ -12,5 +12,7 @@ $fp = fopen($filename, 'rb');
 header("Content-Type: image/png");
 header("Content-Length: " . filesize($filename)); 
 
+console.log('jajajjajajaja');
+
 fpassthru($fp);
 ?>
